@@ -20,7 +20,7 @@
 
 - 🔭 **Currently Building:**
   - **R-Steel Color Roofing Center Centralized Management System** — Full-stack management platform hosted on **AWS Lightsail** (Server & Managed Database).
-  - **Brgy. Dapdapan Information Management System** — Local government portal & administrative tracking system deployed on **AWS**.
+  - **Brgy. Dapdapan Information Management System** — Local government portal & administrative tracking system.
 - 🌱 **Learning & Refining:** AWS Cloud Infrastructure, Advanced Laravel Architecture, Docker, and React/Next.js.
 - 🎓 **Background:** BS in Information Technology | Civil Service Professional Eligible | TESDA NC II Certified.
 - 📝 **Articles & Notes:** I share technical thoughts on [Hashnode](https://hashnode.com/@leoneilodrunia).
